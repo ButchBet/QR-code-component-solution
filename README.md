@@ -1,6 +1,4 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Frontend Mentor - QR code component solution 
 
 ## Table of contents
 
@@ -9,62 +7,35 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![Desktop](./design/desktop-design.png)
+![Mobile](./design/mobile-design.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
-
-## My process
+- Solution URL: [GitHub](https://github.com/ButchBet/QR-code-component-solution)
+- Live Site URL: [GitHub](none)
 
 ### Built with
-
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - JS vanilla
 - Web components
 
-### What I learned
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-### Continued development
-
 ### Useful resources
-
-- [Example resource 1]() - This helped me for 
-- [Example resource 2]() - This helped me for
+- [Web components](https://lenguajejs.com/webcomponents/) - This helped me for check the structure to create a component with JS vanilla 
 
 ## Author
-
-- Website - [Add your name here]()
-- Frontend Mentor - [@yourusername]()
-- Twitter - [@yourusername]()
+- Website - [Butchbet](none)
+- Frontend Mentor - [@ButchBet](https://www.frontendmentor.io/profile/ButchBet)
+- Twitter - [@JustButchBet](https://twitter.com/JustButchBet)
 
 ## Acknowledgments
