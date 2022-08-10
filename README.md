@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL: [GitHub](https://github.com/ButchBet/QR-code-component-solution)
-- Live Site URL: [GitHub](none)
+- Live Site URL: [QR code](https://butchbet.github.io/QR-code-component-solution/)
 
 ### Built with
 - Semantic HTML5 markup
