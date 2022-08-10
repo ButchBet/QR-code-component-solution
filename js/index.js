@@ -1,0 +1,1 @@
+import "../components/qr_code.js";
