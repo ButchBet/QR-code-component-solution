@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --Light-gray: hsl(212, 45%, 89%);
+}
+
+.container {
+    background: var(--Light-gray);
+    max-width: 1440px;
+    min-height: 100vh;
+    max-height: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    place-items: center;
+    gap: 13px;
+    padding: 20px;
+}
+
+

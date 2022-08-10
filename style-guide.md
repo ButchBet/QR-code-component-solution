@@ -16,9 +16,10 @@ The designs were created to the following widths:
 
 ## Typography
 
-### Body Copy
+### Font size
 
-- Font size (paragraph): 15px
+- md: 15px;
+- sm: 13px;
 
 ### Font
 
