@@ -73,7 +73,7 @@ class QR_code extends HTMLElement {
         <style>${QR_code.styles}</style>
         <div class="card">
             <figure>
-                <img src="../images/image-qr-code.png" alt="QR code image">
+                <img src="images/image-qr-code.png" alt="QR code image">
             </figure>
 
             <p class="title">Improve your front-end skills by building projects</p>
