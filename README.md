@@ -1,28 +1,22 @@
-# Frontend Mentor - QR code component solution 
+# QR code component solution 
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-## Overview
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-
-### Screenshot
+## Screenshot
 ![Desktop](./design/desktop-design.png)
 ![Mobile](./design/mobile-design.png)
 
-### Links
+## Links
 - Solution URL: [GitHub](https://github.com/ButchBet/QR-code-component-solution)
 - Live Site URL: [QR code](https://butchbet.github.io/QR-code-component-solution/)
 
-### Built with
+## Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -30,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - JS vanilla
 - Web components
 
-### Useful resources
+## Useful resources
 - [Web components](https://lenguajejs.com/webcomponents/) - This helped me for check the structure to create a component with JS vanilla 
 
 ## Author
